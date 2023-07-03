@@ -11,6 +11,18 @@
     font-family: 'Inter', sans-serif;
 }
 
+.links {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(68, 68, 68);
+    padding: 10px 0 10px 0;
+}
+
+.links a {
+    color: #ffff;
+    font-weight: 400;
+}
+
 body {
     color: rgb(68, 68, 68);
 }
@@ -33,16 +45,4 @@ p {
     font-size: 18px;
     line-height: 1.6;
     letter-spacing: 0.3%;
-}
-
-.links {
-    display: flex;
-    justify-content: space-around;
-    background-color: rgb(68, 68, 68);
-    padding: 10px 0 10px 0;
-}
-
-.links a {
-    color: #ffff;
-    font-weight: 400;
 }
