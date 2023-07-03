@@ -20,6 +20,10 @@ h3 {
     margin: 30px 0 -10px 0;
 }
 
+a {
+    color: rgb(68, 68, 68);
+}
+
 h1 {
     font-weight: 600;
 }
