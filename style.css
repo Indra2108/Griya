@@ -28,7 +28,7 @@ body {
 }
 
 .utama {
-    border-style: hidden hidden dashed hidden;
+    border-bottom-style: dashed;
 }
 
 .projects {
@@ -47,7 +47,7 @@ body {
 }
 
 h1 {
-    font-weight: 600;
+    font-weight: 700;
 }
 
 h2,
@@ -68,7 +68,7 @@ a:hover {
 }
 
 p {
-    font-weight: 300;
+    font-weight: 400;
     font-size: 18px;
     line-height: 1.6;
     letter-spacing: 0.3%;
