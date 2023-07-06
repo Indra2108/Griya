@@ -42,7 +42,7 @@ body {
     max-width: auto;
     padding: 0 10px 0 10px;
     margin: 0 10px 10px 0;
-    border-style: solid;
+    border-style: dotted solid solid dotted;
     border-radius: 10px;
 }
 
