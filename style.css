@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300;500;700&display=swap');
 
 .container {
     display: flex;
@@ -8,7 +8,7 @@
 
 .content {
     max-width: 650px;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 .links {
@@ -27,21 +27,48 @@ body {
     color: rgb(68, 68, 68);
 }
 
-h2,
-h3 {
-    margin: 30px 0 -10px 0;
+.utama {
+    border-style: hidden hidden dashed hidden;
 }
 
-a {
-    color: rgb(68, 68, 68);
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.boxes {
+    flex-grow: 1;
+    width: 250px;
+    max-width: auto;
+    padding: 0 10px 0 10px;
+    margin: 0 10px 10px 0;
+    border-style: solid;
+    border-radius: 10px;
 }
 
 h1 {
     font-weight: 600;
 }
 
+h2,
+h3 {
+    margin: 30px 0 10px 0;
+}
+
+a {
+    color: #ffff;
+    background-color: rgb(68, 68, 68);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(68, 68, 68);
+    background-color: #ffff;
+    text-decoration: none;
+}
+
 p {
-    font-weight: 400;
+    font-weight: 300;
     font-size: 18px;
     line-height: 1.6;
     letter-spacing: 0.3%;
