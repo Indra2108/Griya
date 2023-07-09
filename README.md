@@ -5,11 +5,15 @@
 - [ ] Add some pages for:
   - [ ] Blogs
   - [ ] Digital Garden
-  - [ ] Contact Info
+  - [ ] About
+    - [ ] Me
+    - [ ] Featured Projects
+    - [ ] Contact Info
   - [ ] List Projects that i'm working on
 - [ ] Blog pages
   - [ ] Fetch article from Hashnode
   - [ ] Support i18n (id, en)
+- [ ] Dark mode
 
 ## Resources & References
 

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Damar's Website</title>
-    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="/assets/style.css">
     <link rel="icon" type="image/x-icon"
         href="https://cdn.statically.io/gh/Indra2108/cdn/main/%5BWeb%5D%20website/favicon.jpg">
 </head>
@@ -13,22 +13,27 @@
 <body>
     <div class="container">
         <div class="content">
-            <div class="links">
-                <a href="https://drive.google.com/file/d/1HPEFc1w8VElw2_ISmr8nNsr4yqSJTU8E/view?usp=sharing"
-                    target="_blank">Résumé</a>
-                <a href="https://github.com/Indra2108" target="_blank">GitHub</a>
-                <a href="https://www.linkedin.com/in/indradamarjati/" target="_blank">LinkedIn</a>
-            </div>
+            <nav class="nav">
+                <h1 id="nav-title">{damar@codes}</h1>
 
-            <main class="utama">
-                <h1>Hi there! I'm Damar.</h1>
+                <a href="/" class="nav-links">[ ~/ ]</a>
+                <a href="/blogs/" class="nav-links">blogs/</a>
+                <a href="/projects/" class="nav-links">projects/</a>
+                <a href="/zettelkasten/" class="nav-links">zettelkasten/</a>
+            </nav>
+
+            <main>
+                <header>
+                    <h1>Hi there! I'm Damar.</h1>
+                </header>
 
                 <p>I am a Software Developer who specializes in Mobile Development.</p>
                 <p>I wrote my first line of code when I was still in vocational high school. I learned to write Batch
                     Scripts in Windows.</p>
                 <p>I use Fedora Linux on a daily basis because I find it enjoyable and challenging to write code in a
                     Linux environment.</p>
-                <p>Currently, I&#39;m studying and mentoring at <a href="https://pesantrenit.com">Pesantren IT</a>, an
+                <p>Currently, I&#39;m studying and mentoring at <a href="https://pesantrenit.com"
+                        target="_blank">Pesantren IT</a>, an
                     informal education in Yogyakarta that focuses on IT skill development and Islamic education. There,
                     I am
                     entrusted to be a React Native Mentor, responsible for guiding santri in building mobile
@@ -36,40 +41,68 @@
                     specifically for Android.</p>
                 <p>Besides coding, another thing I enjoy is writing. I love jotting down my thoughts and ideas in
                     physical
-                    journals, like books, or digital platforms such as knowledge bases or blogs. Check out my blog site
-                    <a href="https://indra.hashnode.dev">here</a>.
+                    journals, like books, or digital platforms such as knowledge bases or blogs.
                 </p>
             </main>
 
-            <h2>Personal projects</h2>
-            <div class="projects">
-                <div class="boxes">
-                    <h3> <a href="https://github.com/Indra2108/K-ON" target="_blank">K-ON</a></h3>
-                    <p>An Android application for improving brain skills. The app is built using React Native.</p>
-                </div>
+            <!-- <section>
+                <header>
+                    <h2>Featured Projects</h2>
+                    <p>My projects are hosted on <a href="https://github.com/Indra2108" target="_blank">my GitHub
+                            repositories</a>, but these are my top picks:</p>
+                </header>
 
-                <div class="boxes">
-                    <h3> <a href="https://github.com/Indra2108/dcloud" target="_blank">D-Cloud</a></h3>
-                    <p>An Android application for displaying today's weather forecast and the upcoming week. Built using
-                        React
-                        Native.</p>
-                </div>
+                <div class="projects">
+                    <div class="boxes">
+                        <h3> <a href="https://github.com/Indra2108/damar-portfolio" target="_blank">Damar's Personal
+                                Web</a>
+                        </h3>
+                        <p>This personal website. Written from scratch.</p>
+                    </div>
 
-                <div class="boxes">
-                    <h3> <a href="https://github.com/Indra2108/damar-portfolio" target="_blank">Damar's Personal Web</a>
-                    </h3>
-                    <p>This personal website. Written from scratch.</p>
-                </div>
+                    <div class="boxes">
+                        <h3> <a href="https://github.com/Indra2108/K-ON" target="_blank">K-ON</a></h3>
+                        <p>An Android application for improving brain skills. The app is built using React Native.</p>
+                    </div>
 
-                <div class="boxes">
-                    <h3> <a href="https://github.com/Indra2108/sus" target="_blank">SUS</a></h3>
-                    <p>SUS is a simple tool for shortening URLs. SUS stands for <em>Simple URL Shortener</em> and is
-                        built
-                        on
-                        the HapiJS framework with MySQL database.</p>
-                </div>
+                    <div class="boxes">
+                        <h3> <a href="https://github.com/Indra2108/dcloud" target="_blank">D-Cloud</a></h3>
+                        <p>An Android application for displaying today's weather forecast and the upcoming week. Built
+                            using
+                            React
+                            Native.</p>
+                    </div>
 
-            </div>
+                    <div class="boxes">
+                        <h3> <a href="https://github.com/Indra2108/sus" target="_blank">SUS</a></h3>
+                        <p>SUS is a simple tool for shortening URLs. SUS stands for <em>Simple URL Shortener</em> and is
+                            built
+                            on
+                            the HapiJS framework with MySQL database.</p>
+                    </div>
+
+                </div>
+            </section> -->
+
+            <section>
+                <header>
+                    <h2>Get in touch</h2>
+                </header>
+                <ul>
+                    <li>Email: <a href="mailto:indradamarjati21@gmail.com">indradamarjati21@gmail.com</a></li>
+                    <li>LinkedIn: <a href="https://www.linkedin.com/in/indradamarjati/"
+                            target="_blank">linkedin.com/in/indradamarjati/</a></li>
+                    <li>GitHub: <a href="https://github.com/Indra2108" target="_blank">@Indra2108</a></li>
+                    <li>My Résumé/CV: <a
+                            href="https://drive.google.com/file/d/1HPEFc1w8VElw2_ISmr8nNsr4yqSJTU8E/view?usp=sharing"
+                            target="_blank">PDF</a></li>
+                </ul>
+            </section>
+
+            <footer style="text-align: center;">
+                <hr>
+                <small>2023 &copy; Indra Damar Jati</small>
+            </footer>
         </div>
     </div>
 </body>
