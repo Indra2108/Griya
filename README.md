@@ -3,13 +3,14 @@
 ## Todo(s)
 
 - [ ] Add some pages for:
-  - [ ] Blogs
-  - [ ] Digital Garden
-  - [ ] About
-    - [ ] Me
-    - [ ] Featured Projects
-    - [ ] Contact Info
+  - [x] Blogs
+  - [x] Digital Garden
+  - [x] About
+    - [x] Me
+    - [x] Contact Info
   - [ ] List Projects that i'm working on
+    - [x] Featured projects
+    - [ ] Open source works
 - [ ] Blog pages
   - [ ] Fetch article from Hashnode
   - [ ] Support i18n (id, en)
