@@ -33,7 +33,7 @@
     gap: 1em;
 }
 
-#nav-title {
+.nav h1 {
     font-size: 1em;
     font-weight: 600;
 }
@@ -104,3 +104,26 @@ p {
 li {
     margin: 10px 0 10px 0;
 }
+
+/* ================ <> ================ */
+
+#contacts {
+    display: flex;
+    gap: 1em;
+}
+
+#contacts a {
+    padding: 2px;
+    background-color: #ffff;
+    color: rgb(68, 68, 68);
+    border: 1px solid rgb(68, 68, 68);
+
+}
+
+#contacts a:hover {
+    background-color: rgb(68, 68, 68);
+    color: #ffff; 
+    text-decoration: none;
+}
+
+/* ================ </> ================ */
