@@ -1,10 +1,6 @@
-/* ================ <IMPORT FONTS> ================ */
-
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap');
-
-/* ================ </IMPORT FONTS> ================ */
 
 .container {
     display: flex;
@@ -18,8 +14,8 @@
 }
 
 .content {
-    width: 650px;
     font-family: 'Atkinson Hyperlegible', sans-serif;
+    width: 650px;
 }
 
 /* ================ <NAV/HEADER> ================ */
@@ -28,7 +24,6 @@
     border-bottom-style: dashed;
 
     display: flex;
-    justify-content: flex-start;
     align-items: center;
     gap: 1em;
 }
@@ -59,29 +54,6 @@ body {
     color: rgb(68, 68, 68);
 }
 
-.projects {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1em;
-}
-
-.boxes {
-    flex-grow: 1;
-    width: 250px;
-    padding: 1em;
-    border-radius: 10px;
-    border-style: dotted solid solid dotted;
-}
-
-h1 {
-    font-weight: 700;
-}
-
-h2 {
-    margin: 1em 0 5px 0;
-    text-decoration: rgb(68, 68, 68) wavy underline;
-}
-
 a {
     color: #ffff;
     background-color: rgb(68, 68, 68);
@@ -95,15 +67,28 @@ a:hover {
 }
 
 p {
-    font-weight: 400;
     font-size: 18px;
     line-height: 1.6;
     letter-spacing: 0.3%;
 }
 
-li {
-    margin: 10px 0 10px 0;
+/* ================ <> ================ */
+
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
 }
+
+.projects div {
+    flex-grow: 1;
+    width: 250px;
+    padding: 1em;
+    border-radius: 10px;
+    border-style: dotted solid solid dotted;
+}
+
+/* ================ </> ================ */
 
 /* ================ <> ================ */
 
@@ -117,13 +102,16 @@ li {
     background-color: #ffff;
     color: rgb(68, 68, 68);
     border: 1px solid rgb(68, 68, 68);
-
 }
 
 #contacts a:hover {
     background-color: rgb(68, 68, 68);
-    color: #ffff; 
+    color: #ffff;
     text-decoration: none;
 }
 
 /* ================ </> ================ */
+
+footer {
+    text-align: center;
+}

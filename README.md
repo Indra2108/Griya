@@ -16,7 +16,6 @@
   - [ ] Support i18n (id, en)
 - [ ] Wiki
   - [ ] Screenshot Garden
-- [ ] Dark mode
 - [ ] Responsive (mobile-friendly)
 
 ## Resources & References
