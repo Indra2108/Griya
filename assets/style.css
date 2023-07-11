@@ -2,20 +2,27 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap');
 
-.container {
+:root {
     display: flex;
     justify-content: center;
-    background-color: #ffff;
+
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+
+    --primary-color: #fff;
+    --secondary-color: #444;
 
     ::selection {
-        background-color: rgb(68, 68, 68);
-        color: #ffff;
+        background-color: var(--secondary-color);
+        color: var(--primary-color);
     }
 }
 
 .content {
     font-family: 'Atkinson Hyperlegible', sans-serif;
     width: 650px;
+    margin: 10px auto;
+    padding: 0 10px;
 }
 
 /* ================ <NAV/HEADER> ================ */
@@ -37,32 +44,28 @@
     font-weight: 400;
     font-style: italic;
     font-size: 15px;
-    color: rgb(68, 68, 68);
-    background-color: #ffff;
+    color: var(--secondary-color);
+    background-color: var(--primary-color);
     text-decoration: underline;
 }
 
 .nav a:hover {
     text-decoration: none;
-    color: #ffff;
-    background-color: rgb(68, 68, 68);
+    color: var(--primary-color);
+    background-color: var(--secondary-color);
 }
 
 /* ================ </NAV/HEADER> ================ */
 
-body {
-    color: rgb(68, 68, 68);
-}
-
 a {
-    color: #ffff;
-    background-color: rgb(68, 68, 68);
+    color: var(--primary-color);
+    background-color: var(--secondary-color);
     text-decoration: none;
 }
 
 a:hover {
-    color: rgb(68, 68, 68);
-    background-color: #ffff;
+    color: var(--secondary-color);
+    background-color: var(--primary-color);
     text-decoration: underline;
 }
 
@@ -94,19 +97,24 @@ p {
 
 #contacts {
     display: flex;
+    align-items: center;
     gap: 1em;
+}
+
+#contacts p {
+    margin: 0
 }
 
 #contacts a {
     padding: 2px;
-    background-color: #ffff;
-    color: rgb(68, 68, 68);
-    border: 1px solid rgb(68, 68, 68);
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    border: 1px solid;
 }
 
 #contacts a:hover {
-    background-color: rgb(68, 68, 68);
-    color: #ffff;
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
     text-decoration: none;
 }
 
