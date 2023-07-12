@@ -9,8 +9,14 @@
     background-color: var(--primary-color);
     color: var(--secondary-color);
 
+    /* DARK THEME INSPIRED BY JETBRAINS MONO WEBSITE
+     --primary-color: #1a1b1e;
+    --secondary-color: #cdcdcd; 
+    --link-color: #4ca6ff; */
+
     --primary-color: #fff;
     --secondary-color: #444;
+    --link-color: #479;
 
     ::selection {
         background-color: var(--secondary-color);
@@ -49,44 +55,37 @@
 
 .nav a:hover {
     text-decoration: none;
+    border: none;
     color: var(--primary-color);
     background-color: var(--secondary-color);
 }
 
 /* ================ </NAV/HEADER> ================ */
 
+
 a {
-    color: var(--primary-color);
-    background-color: var(--secondary-color);
+    color: var(--link-color);
     text-decoration: none;
 }
 
 a:hover {
-    color: var(--secondary-color);
-    background-color: var(--primary-color);
-    text-decoration: underline;
+    color: var(--link-color);
+    text-decoration: none;
+    border-width: 2px;
+    border-color: var(--link-color);
+    border-bottom-style: solid;
 }
 
 p {
     font-size: 18px;
     line-height: 1.6;
-    letter-spacing: 0.3%;
 }
 
 /* ================ <> ================ */
 
-.projects {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1em;
-}
-
-.projects div {
-    flex-grow: 1;
-    width: 250px;
-    padding: 1em;
-    border-radius: 10px;
-    border-style: dotted solid solid dotted;
+.projects ul li::marker {
+    content: "➤  ";
+    font-size: 1em;
 }
 
 /* ================ </> ================ */
@@ -108,6 +107,7 @@ p {
     background-color: var(--primary-color);
     color: var(--secondary-color);
     border: 1px solid;
+    text-decoration: none;
 }
 
 #contacts a:hover {
