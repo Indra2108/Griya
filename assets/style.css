@@ -83,7 +83,7 @@ p {
 
 /* ================ <> ================ */
 
-.projects ul li::marker {
+::marker {
     content: "➤  ";
     font-size: 1em;
 }
