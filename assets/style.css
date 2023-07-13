@@ -79,6 +79,10 @@ p {
     line-height: 1.6;
 }
 
+code {
+    font-family: 'JetBrains Mono', monospace;
+}
+
 /* ================ <> ================ */
 
 ::marker {
