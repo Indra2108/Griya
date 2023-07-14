@@ -18,9 +18,6 @@
     - [x] Featured projects
     - [x] Open source works
 
-## Resources & References
+## Misc
 
-- Inspired from the website https://mary.rs/
-- Thanks to this [video](https://www.youtube.com/watch?v=yU-euUrE3Bg), finally i can understand basic of css.
-- Thanks to [Belajar HTML & CSS telegram group](https://t.me/belajarhtmlcss) for the help to solving my css problem.
-- Thanks to [XXIIVV](https://webring.xxiivv.com/) & [Recurse](https://webring.recurse.com/) Webrings to give me some references/insights about design of personal website.
+The project's progress is being documented on my blog. Head over [there](https://indra.hashnode.dev/series/personal-web-development) to stay up-to-date.
