@@ -2,15 +2,8 @@
 
 ## Todo(s)
 
-- [ ] Blog pages
-  - [ ] Fetch article from Hashnode
-  - [ ] Support i18n (id, en)
-- [ ] Wiki
-  - [ ] Screenshot Garden
 - [ ] Responsive (mobile-friendly)
 - [x] Add some pages for:
-  - [x] Blogs
-  - [x] Digital Garden
   - [x] About
     - [x] Me
     - [x] Contact Info
