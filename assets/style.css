@@ -14,7 +14,7 @@
     --secondary-color: #444;
     --link-color: #479;
 
-    --main-font: 'IoBrains-Sans Web', sans-serif;
+    --main-font: 'IoDamar-Sans Web', sans-serif;
     --mono-font: 'JetBrains Mono', monospace;
 
     ::selection {
@@ -74,16 +74,10 @@ p {
     line-height: 1.6;
 }
 
-/* ================ <> ================ */
-
 main ::marker {
     content: "▶  ";
     font-size: 1em;
 }
-
-/* ================ </> ================ */
-
-/* ================ <> ================ */
 
 #contacts {
     display: flex;
@@ -108,8 +102,6 @@ main ::marker {
     color: var(--primary-color);
     text-decoration: none;
 }
-
-/* ================ </> ================ */
 
 footer {
     font-family: 'JetBrains Mono', monospace;
