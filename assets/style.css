@@ -28,7 +28,6 @@ body {
     width: 650px;
 }
 
-/* ================ <NAV/HEADER> ================ */
 .nav ul {
     font-family: var(--mono-font);
     border-bottom-style: dashed;
@@ -50,9 +49,6 @@ body {
 .nav ul li a:hover {
     text-decoration: underline;
 }
-
-/* ================ </NAV/HEADER> ================ */
-
 
 main a,
 footer a {
