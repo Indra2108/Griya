@@ -3,6 +3,7 @@
 ## Todo(s)
 
 - [ ] Responsive (mobile-friendly)
+- [ ] Dark Theme
 - [x] Add some pages for:
   - [x] About
     - [x] Me
