@@ -12,11 +12,6 @@
     --secondary-color: #cdcdcd; 
     --link-color: #4ca6ff; */
 
-    /* DARK THEME INSPIRED FROM BENJI.DOG */
-    /* --primary-color: #131415;
-    --secondary-color: #fbfbfb; 
-    --link-color: #6ecff6; */
-
     /* LIGHT THEME INSPIRED FROM MARY.RS */
     --primary-color: #fff;
     --secondary-color: #444;
@@ -105,7 +100,6 @@ main ::marker {
 }
 
 footer {
-    text-align: center;
     padding-top: 10px;
     margin-top: 10px;
     border-top-style: dashed;
