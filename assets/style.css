@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital@0;1&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro&display=swap');
+
 :root {
     /* --primary-color: #1a1b1e;
     --secondary-color: #cdcdcd; 
@@ -48,6 +50,12 @@ nav ul li a {
 
 nav ul li a:hover {
     text-decoration: underline;
+}
+
+#arab {
+    /* font-family: 'Amiri', serif; */
+    font-family: 'Readex Pro', sans-serif;
+    text-align: right;
 }
 
 main a,
@@ -103,39 +111,6 @@ footer {
     margin-top: 10px;
     border-top-style: dashed;
 }
-
-/* Dark/Light Mode */
-
-/* #toggleMode {
-    display: none;
-}
-
-.toggleDark {
-    display: inline-block;
-    color: var(--primary-color);
-}
-
-.toggleLight {
-    display: none;
-    color: var(--secondary-color);
-}
-
-#toggleMode:checked~.toggleDark {
-    display: none;
-}
-
-#toggleMode:checked~.toggleLight {
-    display: inline-block;
-}
-
-#toggleMode:checked~p {
-    --primary-color: #1a1b1e;
-    --secondary-color: #cdcdcd;
-    --link-color: #4ca6ff;
-
-    background-color: var(--primary-color);
-    color: var(--secondary-color);
-} */
 
 @media screen and (max-width: 550px) {
     #container {
