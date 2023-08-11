@@ -18,13 +18,13 @@
 }
 
 body {
+    /* display: flex; */
     justify-content: center;
-    display: flex;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
 }
 
 #container {
-    background-color: var(--primary-color);
-    color: var(--secondary-color);
     font-family: var(--main-font);
     width: 650px;
 }
@@ -69,10 +69,10 @@ p {
     line-height: 1.6;
 }
 
-/* main ::marker {
+main ::marker {
     content: "▶ ";
     font-size: 1em;
-} */
+}
 
 #contacts {
     display: flex;
