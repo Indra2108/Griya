@@ -67,6 +67,7 @@ node_modules/
 
 # MY CUSTOM
 .firebaserc
-404.html
+404.html 
+!wiki/404.html
 firebase.json
 markdown
