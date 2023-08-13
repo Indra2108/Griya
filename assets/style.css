@@ -77,9 +77,8 @@ p {
     line-height: 1.6;
 }
 
-main ::marker {
-    content: "▶ ";
-    font-size: 1em;
+.list {
+    list-style-type: square;
 }
 
 #contacts {
