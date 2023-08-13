@@ -3,4 +3,5 @@
 ## Todo(s)
 
 - [ ] Responsive (mobile-friendly)
-- [ ] Fully-implemented Dark Theme
+- [ ] Rewrite Homepage to become dark.
+- [ ] ready-to-use Wiki.
