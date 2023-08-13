@@ -38,20 +38,20 @@ h1 {
     margin-bottom: 0;
 }
 
-#menus {
+nav {
     display: flex;
     gap: 1em;
 }
 
-#menus>ul>li {
+nav>ul>li {
     list-style-type: none;
 }
 
-#menus>ul>li>a {
+nav>ul>li>a {
     text-decoration: none;
 }
 
-#menus>ul>li>a:hover {
+nav>ul>li>a:hover {
     background-color: var(--secondary-color);
     color: var(--primary-color);
 }
