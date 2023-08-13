@@ -4,8 +4,8 @@
 
 - [ ] Responsive (mobile-friendly)
 - [ ] Dark Theme
-- [ ] notes page
-  - [ ] Need content
+- [x] notes page
+  - [x] Need content
 - [x] Add some pages for:
   - [x] About
     - [x] Me
