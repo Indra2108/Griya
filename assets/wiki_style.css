@@ -1,0 +1,66 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+    --primary-color: #1a1b1e;
+    --secondary-color: #cdcdcd;
+
+    --main-font: 'Crimson Text', serif;
+
+    ::selection {
+        background-color: var(--secondary-color);
+        color: var(--primary-color);
+    }
+}
+
+body {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    font-family: var(--main-font);
+    width: 650px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+a {
+    color: var(--secondary-color);
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+#menus {
+    display: flex;
+    gap: 1em;
+}
+
+#menus>ul>li {
+    list-style-type: none;
+}
+
+#menus>ul>li>a {
+    text-decoration: none;
+}
+
+#menus>ul>li>a:hover {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+}
+
+@media screen and (max-width: 550px) {
+    #container {
+        width: auto;
+        padding: 15px;
+        margin: 0px;
+        font-size: 10pt;
+    }
+}

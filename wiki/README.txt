@@ -1,1 +1,1 @@
-This is the build file from Docusaurus, if you want the source code, go here https://github.com/Indra2108/wiki
+Work in progress wiki, I'm planning to build it by myself, rather than using Docusaurus.
