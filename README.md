@@ -4,6 +4,8 @@
 
 - [ ] Responsive (mobile-friendly)
 - [ ] Dark Theme
+- [ ] notes page
+  - [ ] Need content
 - [x] Add some pages for:
   - [x] About
     - [x] Me
@@ -12,6 +14,3 @@
     - [x] Featured projects
     - [x] Open source works
 
-## Misc
-
-The project's progress is being documented on my blog. Head over [there](https://indra.hashnode.dev/series/personal-web-development) to stay up-to-date.
