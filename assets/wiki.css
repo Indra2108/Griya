@@ -41,6 +41,7 @@ h1 {
 nav {
     display: flex;
     gap: 1em;
+    flex-wrap: wrap;
 }
 
 nav>ul {
