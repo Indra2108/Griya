@@ -32,7 +32,7 @@ body {
     width: 650px;
 }
 
-nav ul {
+.ininav {
     border-bottom-style: dashed;
 
     display: flex;
@@ -43,13 +43,13 @@ nav ul {
     gap: 1em;
 }
 
-nav ul li a {
+.ininav li a {
     color: var(--secondary-color);
     background-color: var(--primary-color);
     text-decoration: none;
 }
 
-nav ul li a:hover {
+.ininav li a:hover {
     text-decoration: underline;
 }
 
@@ -85,6 +85,8 @@ p {
     display: flex;
     align-items: center;
     gap: 1em;
+    list-style-type: none;
+    padding: 0;
 }
 
 #contacts p {
@@ -111,11 +113,19 @@ footer {
     border-top-style: dashed;
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 470px) {
     #container {
         width: auto;
-        padding: 15px;
         margin: 0px;
-        font-size: 10pt;
+    }
+
+    #contacts {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .ininav {
+        display: block;
     }
 }
