@@ -42,12 +42,3 @@ p>a:hover {
 h1 {
     margin-bottom: 0;
 }
-
-@media screen and (max-width: 550px) {
-    #container {
-        width: auto;
-        padding: 15px;
-        margin: 0px;
-        font-size: 10pt;
-    }
-}
