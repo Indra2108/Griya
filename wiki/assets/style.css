@@ -26,6 +26,10 @@ body {
     width: 650px;
 }
 
+h1>a {
+    text-decoration: none;
+}
+
 p {
     line-height: 1.6;
 }
@@ -56,7 +60,8 @@ nav>ul>li>a {
     text-decoration: none;
 }
 
-a:hover {
+p>a:hover,
+ul>li>a:hover {
     background-color: var(--secondary-color);
     color: var(--primary-color);
     text-decoration: none;
