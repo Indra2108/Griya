@@ -4,7 +4,7 @@
 
 - [ ] Responsive (mobile-friendly)
   - [x] Homepage
-  - [ ] Notes
+  - [x] Notes
   - [ ] Wiki
 - [ ] Rewrite Homepage to become dark.
   - [ ] Need research color palette.
