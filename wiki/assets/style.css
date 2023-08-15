@@ -61,7 +61,8 @@ nav>ul>li>a {
 }
 
 p>a:hover,
-ul>li>a:hover {
+ul>li>a:hover,
+ol>li>a:hover {
     background-color: var(--secondary-color);
     color: var(--primary-color);
     text-decoration: none;
