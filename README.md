@@ -6,6 +6,6 @@
   - [x] Homepage
   - [x] Notes
   - [ ] Wiki
-- [ ] Rewrite Homepage to become dark.
+- [ ] Redesign Homepage to become dark.
   - [ ] Need research color palette.
 - [ ] ready-to-use Wiki.
