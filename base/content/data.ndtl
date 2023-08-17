@@ -1,20 +1,78 @@
 var DATABASE = `
-AGAINST BEAUTY IN PHYSICS
-  PERS : faun
-  SRCE : Merveilles
-  LINK : http://rationallyspeakingpodcast.org/show/rs-211-sabine-hossenfelder-on-the-case-against-beauty-in-phy.html
-  TYPE : podcast
-  TAGS : philosophy, science
-  QOTE : 'It hit me pretty hard. Some of this stuff is really philosophically potent in a way that's easy to overlook.' - faun
-  DONE : true
-  REVI : true
-
-THE NATANIEV OVERSEER
-  DATE : 12018-07-18
-  AUTH : neauoire
-  TAGS : inspiration, tool, design, neauoire
-  LINK : https://twitter.com/neauoire/status/1019489401192116224
+O2P ORBIUM PHANTASMA
+  DATE : 2023-01-09
+  AUTH : Bert Chan
+  TAGS : particle lenia, cellular automata
   TYPE : image
-  FILE : 12018-07-18_theNatanievOverseer.jpg
+  FILE : 2023-01-09_O2p-Orbium_Phantasma.png
+  LINK : https://www.youtube.com/watch?v=ij1k2pxdQNU
   WIDE : true
+
+FEDORA 35 WITH WHITESUR THEME
+  DATE : 2022-01-21
+  AUTH : indrdmr
+  TAGS : linux
+  TYPE : image
+  FILE : 2022-01-21_fedora35_whitesur.png
+
+1SUB
+  LINK : https://1sub.dev/
+  TYPE : tool
+  TAGS : code, web
+
+LEPRD WEB HOSTING
+  LINK : https://leprd.space/
+  TYPE : tool
+  TAGS : code, hosting
+  NOTE 
+    > Free cPanel web hosting for hobbyist
+
+20 YEARS OF PROGRAMMING
+  LINK : https://flooey.org/twentyyearsofprogramming.html
+  TYPE : article
+  TAGS : code
+
+HOW TO BUILD TOXIC SOFTWARE TEAMS
+  LINK : https://badsoftwareadvice.substack.com/p/how-to-build-toxic-software-teams
+  TYPE : article
+  TAGS : code
+
+HOW I DISCOVERED THE UNDERGOUND OF CREDIT CARD NETWORK EXPLOITATION
+  LINK : https://chargebackstop.com/blog/card-networks-exploitation/
+  TYPE : article
+  TAGS : security, exploitation
+
+STOPPING AT 90%
+  LINK : https://austinhenley.com/blog/90percent.html
+  TYPE : article
+  TAGS : code
+
+DO SOMETHING, SO WE CAN CHANGE IT!
+  LINK : https://allenpike.com/2023/do-something-so-we-can-change-it
+  TYPE : article
+  TAGS : general
+
+REMOTE WORK REQUIRES COMMUNICATING MORE, LESS FREQUENTLY
+  LINK : https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/
+  TYPE : article
+  TAGS : code
+
+THROW AWAY YOUR FIRST DRAFT OF YOUR CODE
+  LINK : https://ntietz.com/blog/throw-away-your-first-draft/
+  TYPE : article
+  TAGS : code
+
+THE WAY OUT OF BURNOUT
+  LINK : https://www.economist.com/1843/2016/07/28/the-way-out-of-burnout
+  TYPE : article
+  TAGS : general, work
+  NOTE
+    > A psychoanalyst explains why for people feeling “burnt out”, simply trying to relax doesn’t always work
+
+HOW TO WRITING IN PUBLIC
+  LINK : https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/
+  TYPE : article
+  TAGS : writing, code
+  NOTE
+    > Julia Evans share about some tactics for writing in public
 `
