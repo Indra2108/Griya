@@ -8,25 +8,6 @@ O2P ORBIUM PHANTASMA
   LINK : https://www.youtube.com/watch?v=ij1k2pxdQNU
   WIDE : true
 
-FEDORA 35 WITH WHITESUR THEME
-  DATE : 2022-01-21
-  AUTH : indrdmr
-  TAGS : linux
-  TYPE : image
-  FILE : 2022-01-21_fedora35_whitesur.png
-
-1SUB
-  LINK : https://1sub.dev/
-  TYPE : tool
-  TAGS : code, web
-
-LEPRD WEB HOSTING
-  LINK : https://leprd.space/
-  TYPE : tool
-  TAGS : code, hosting
-  NOTE 
-    > Free cPanel web hosting for hobbyist
-
 20 YEARS OF PROGRAMMING
   LINK : https://flooey.org/twentyyearsofprogramming.html
   TYPE : article
@@ -51,6 +32,25 @@ DO SOMETHING, SO WE CAN CHANGE IT!
   LINK : https://allenpike.com/2023/do-something-so-we-can-change-it
   TYPE : article
   TAGS : general
+
+1SUB
+  LINK : https://1sub.dev/
+  TYPE : tool
+  TAGS : code, web
+
+LEPRD WEB HOSTING
+  LINK : https://leprd.space/
+  TYPE : tool
+  TAGS : code, hosting
+  NOTE 
+    > Free cPanel web hosting for hobbyist
+
+FEDORA 35 WITH WHITESUR THEME
+  DATE : 2022-01-21
+  AUTH : indrdmr
+  TAGS : linux
+  TYPE : image
+  FILE : 2022-01-21_fedora35_whitesur.png
 
 REMOTE WORK REQUIRES COMMUNICATING MORE, LESS FREQUENTLY
   LINK : https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/
@@ -97,4 +97,51 @@ WRITE ABOUT WHAT YOU LEARN
   LINK : https://addyosmani.com/blog/write-learn/
   TYPE : article
   TAGS : writing
+
+WORLD'S FIRST COLOR E-INK MONITOR
+  LINK : https://www.indiegogo.com/projects/paperlike-color-world-first-color-e-ink-monitor/coming_soon
+  TYPE : tool
+  TAGS : hardware
+
+INTRODUCTION TO KALMAN FILTERS
+  LINK : https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/
+  TYPE : article
+  TAGS : math, algorithm, code
+  NOTE
+    > A non-mathematical introduction for Programmers
+
+MAN SPENDS ENTIRE CAREER MASTERING CRAPPY CODEBASE
+  LINK : https://taylor.town/entire-career
+  TYPE : article
+  TAGS : code
+
+THE UNIX69 KEYBOARD LAYOUT
+  LINK : https://dotat.at/@/2023-08-04-unix69.html
+  TYPE : article
+  TAGS : hardware, unix
+
+LINUX GUIDE FOR POWERUSERS
+  LINK : https://xnacly.me/posts/2022/linux-for-powerusers/
+  TYPE : article
+  TAGS : linux
+
+COMPILER DEVELOPMENT: RUST OR OCAML?
+  LINK : https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html
+  TYPE : article
+  TAGS : code
+
+RAKU - A LANGUAGE OF GREMLINS
+  LINK : https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/
+  TYPE : article
+  TAGS : code
+
+BYE, GEMINI
+  LINK : https://www.makeworld.space/2023/08/bye_gemini.html
+  TYPE : article
+  TAGS : networking
+
+THINGS YOU FORGOT (OR NEVER KNEW) BECAUSE OF REACT
+  LINK : https://joshcollinsworth.com/blog/antiquated-react
+  TYPE : article
+  TAGS : code
 `
