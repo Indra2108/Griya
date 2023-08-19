@@ -33,18 +33,6 @@ DO SOMETHING, SO WE CAN CHANGE IT!
   TYPE : article
   TAGS : general
 
-1SUB
-  LINK : https://1sub.dev/
-  TYPE : tool
-  TAGS : code, web
-
-LEPRD WEB HOSTING
-  LINK : https://leprd.space/
-  TYPE : tool
-  TAGS : code, hosting
-  NOTE 
-    > Free cPanel web hosting for hobbyist
-
 FEDORA 35 WITH WHITESUR THEME
   DATE : 2022-01-21
   AUTH : indrdmr
@@ -154,7 +142,6 @@ COPYING, IS THE WAY DESIGN WORKS
   LINK : https://matthewstrom.com/writing/copying/
   TYPE : article
   TAGS : visual
-  WIDE : true
 
 HAPPY HUES
   LINK : https://www.happyhues.co/
@@ -181,6 +168,18 @@ OPINION: IDEAL PROGRAMMING LANGUAGE
   TAGS : code
   NOTE
     > An opinion on what's a good general-purpose programming language
+
+1SUB
+  LINK : https://1sub.dev/
+  TYPE : tool
+  TAGS : code, web
+
+LEPRD WEB HOSTING
+  LINK : https://leprd.space/
+  TYPE : tool
+  TAGS : code, hosting
+  NOTE 
+    > Free cPanel web hosting for hobbyist
 
 STORY OF RETRY
   LINK : https://blog.chib.me/story-of-retry/
@@ -257,4 +256,31 @@ GETTING A JOB AT APPLE WITHOUT GOING TO COLLEGE OR DOING LEETCODE
   LINK : https://aheze.substack.com/p/getting-a-job-at-apple-without-going
   TYPE : article
   TAGS : code
+
+WRITING WELL, UNDERVALUED SOFTWARE ENGINEERING SKILLS
+  LINK : https://blog.pragmaticengineer.com/on-writing-well/
+  TYPE : article
+  TAGS : writing, code
+
+5 THINGS I’VE LEARNED IN 20 YEARS OF PROGRAMMING
+  LINK : https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/
+  TYPE : article
+  TAGS : code
+
+HOW TO MAKE YOUR CODE REVIEWER FALL IN LOVE WITH YOU
+  LINK : https://mtlynch.io/code-review-love/
+  TYPE : article
+  TAGS : code
+
+EVIL TIP: AVOID "EASY" THINGS
+  LINK : https://yosefk.com/blog/evil-tip-avoid-easy-things.html
+  TYPE : article
+  TAGS : general, code
+
+WHY I BUILT A DICTIONARY APP EVEN WITH MORE THAN +300 APPS AVAILABLE AT APPSTORE?
+  LINK : https://www.wordnote.app/blog/why-i-built-dictionary-app
+  TYPE : article
+  TAGS : code
+
+  
 `
