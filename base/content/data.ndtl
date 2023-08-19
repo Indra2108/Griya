@@ -189,7 +189,7 @@ STORY OF RETRY
 WHY YOUR BLOG STILL NEEDS RSS
   LINK : https://journal.paoloamoroso.com/why-your-blog-still-needs-rss
   TYPE : article
-  TAGS : internet
+  TAGS : internet, code
 
 TEXT FX (GOOGLE)
   LINK : https://textfx.withgoogle.com/
@@ -210,4 +210,28 @@ HOW TO ANSWER QUESTIONS IN A HELPFUL WAY
   TYPE : article
   TAGS : general, code
 
+GRADIENT COLORS COLLECTION PALETTE
+  LINK : https://hexcolor.co/gradient-colors
+  TYPE : tool
+  TAGS : visual
+
+CLARITY IS AN UNDERRATED SKILL
+  LINK : https://tomgamon.com/posts/clarity/
+  TYPE : article
+  TAGS : writing, code
+
+IT'S PROBABLY TIME TO STOP RECOMMENDING CLEAN CODE
+  LINK : https://qntm.org/clean
+  TYPE : article
+  TAGS : code
+
+HOW TO WORK HARD
+  LINK : http://paulgraham.com/hwh.html
+  TYPE : article
+  TAGS : general
+
+THERE'S NEVER BEEN A BETTER TIME TO BUILD WEBSITES
+  LINK : https://www.simeongriggs.dev/there-has-never-been-a-better-time-to-build-websites
+  TYPE : article
+  TAGS : internet, code
 `
