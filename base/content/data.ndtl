@@ -144,4 +144,54 @@ THINGS YOU FORGOT (OR NEVER KNEW) BECAUSE OF REACT
   LINK : https://joshcollinsworth.com/blog/antiquated-react
   TYPE : article
   TAGS : code
+
+GOODBYE, CLEAN CODE
+  LINK : https://overreacted.io/goodbye-clean-code/
+  TYPE : article
+  TAGS : code
+
+HAPPY HUES
+  LINK : https://www.happyhues.co/
+  TYPE : tool
+  TAGS : visual
+  NOTE
+    > Happy Hues is a color palette inspiration site that act as a real world example as to how the colors could be used in your design projects.
+
+HOW TO DESIGN DELIGHTFUL DARK THEMES
+  LINK : https://blog.superhuman.com/how-to-design-delightful-dark-themes/
+  TYPE : article
+  TAGS : visual
+
+LEARN THE LOGIC OF GREAT TYPOGRAPHY
+  LINK : https://www.learnui.design/tools/typography-tutorial.html
+  TYPE : tool
+  TAGS : visual
+  NOTE
+    > An Interactive type tutorial
+
+OPINION: IDEAL PROGRAMMING LANGUAGE
+  LINK : https://avestura.dev/blog/ideal-programming-language
+  TYPE : article
+  TAGS : code
+  NOTE
+    > An opinion on what's a good general-purpose programming language
+
+STORY OF RETRY
+  LINK : https://blog.chib.me/story-of-retry/
+  TYPE : article
+  TAGS : code
+
+WHY YOUR BLOG STILL NEEDS RSS
+  LINK : https://journal.paoloamoroso.com/why-your-blog-still-needs-rss
+  TYPE : article
+  TAGS : internet
+
+TEXT FX (GOOGLE)
+  LINK : https://textfx.withgoogle.com/
+  TYPE : tool
+  TAGS : writing
+  NOTE
+    > TextFX is an AI experiment that uses Google's PaLM 2 large language model. These 10 tools are designed to expand the writing process by generating creative possibilities with text and language.
+
+  
 `
