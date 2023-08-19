@@ -150,6 +150,11 @@ GOODBYE, CLEAN CODE
   TYPE : article
   TAGS : code
 
+COPYING, IS THE WAY DESIGN WORKS
+  LINK : https://matthewstrom.com/writing/copying/
+  TYPE : article
+  TAGS : visual
+
 HAPPY HUES
   LINK : https://www.happyhues.co/
   TYPE : tool
@@ -193,5 +198,16 @@ TEXT FX (GOOGLE)
   NOTE
     > TextFX is an AI experiment that uses Google's PaLM 2 large language model. These 10 tools are designed to expand the writing process by generating creative possibilities with text and language.
 
-  
+PROGRAMMING ESSAYS
+  LINK : https://www.benkuhn.net/progessays/
+  TYPE : list
+  TAGS : code, writing
+  QOTE
+    > 'Essays on programming I think about a lot.'
+
+HOW TO ANSWER QUESTIONS IN A HELPFUL WAY
+  LINK : https://jvns.ca/blog/answer-questions-well/
+  TYPE : article
+  TAGS : general, code
+
 `
