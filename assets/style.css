@@ -3,13 +3,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Readex+Pro&display=swap');
 
 :root {
-    /* --primary-color: #1a1b1e;
-    --secondary-color: #cdcdcd; 
-    --link-color: #4ca6ff; */
-
     --primary-color: #fff;
     --secondary-color: #444;
-    /* --secondary-color: #000; */
     --link-color: #479;
 
     --main-font: 'JetBrains Mono', monospace;
@@ -25,10 +20,10 @@ body {
     justify-content: center;
     background-color: var(--primary-color);
     color: var(--secondary-color);
+    font-family: var(--main-font);
 }
 
 #container {
-    font-family: var(--main-font);
     width: 650px;
 }
 
@@ -36,11 +31,10 @@ body {
     border-bottom-style: dashed;
 
     display: flex;
-    padding: 10px 0;
-    margin: 0;
-    list-style-type: none;
-    justify-content: start;
     gap: 1em;
+    padding: 10px 0;
+    margin-top: 0;
+    list-style-type: none;
 }
 
 .ininav li a {
