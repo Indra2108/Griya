@@ -20,11 +20,11 @@ body {
 #container {
     font-family: 'Crimson Text', serif;
     width: 650px;
+    font-size: large;
 }
 
 p {
     line-height: 1.6;
-    font-size: 18px;
 }
 
 a {
