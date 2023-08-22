@@ -1,13 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Crimson+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 :root {
-    --primary-color: #1a1b1e;
-    --secondary-color: #cdcdcd;
+    /* Dark Theme */
+    /* --primary-color: #1a1b1e;
+    --secondary-color: #cdcdcd; */
 
-    ::selection {
-        background-color: var(--secondary-color);
-        color: var(--primary-color);
-    }
+    /* Light Theme = Lebih Alami, nyaman di mata */
+    --primary-color: #fff;
+    --secondary-color: #262320;
 }
 
 body {
@@ -18,7 +20,7 @@ body {
 }
 
 #container {
-    font-family: 'Crimson Text', serif;
+    font-family: 'Crimson Pro', serif;
     width: 650px;
     font-size: large;
 }
@@ -36,6 +38,7 @@ a {
 }
 
 h1 {
+    font-family: 'Crimson Text', serif;
     margin-bottom: 0;
 }
 
