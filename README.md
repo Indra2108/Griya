@@ -10,3 +10,5 @@
   - [ ] Need research color palette.
 - [ ] ready-to-use Wiki.
 - [ ] Each projects have homepage. reference: https://h3rald.com/projects/
+- [ ] Origami Page (gallery for my own origami collections)
+- [ ] visual-experiment (landing page collection of my own frontend website.)
