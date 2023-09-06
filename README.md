@@ -2,13 +2,8 @@
 
 ## Todo(s)
 
-- [ ] Responsive (mobile-friendly)
-  - [x] Homepage
-  - [x] Notes
-  - [ ] Wiki
-- [ ] Redesign Homepage to become dark.
-  - [ ] Need research color palette.
-- [ ] ready-to-use Wiki.
-- [ ] Each projects have homepage. reference: https://h3rald.com/projects/
+- [ ] Ready-to-read Wiki.
+- [ ] Each projects have a page. reference: https://h3rald.com/projects/
 - [ ] Origami Page (gallery for my own origami collections)
-- [ ] visual-experiment (landing page collection of my own frontend website.)
+- [ ] Visual design experiment (collection of my own frontend websites design)
+- [ ] Using [icyphox](https://icyphox.sh/)'s git web frontend, [legit](https://git.icyphox.sh/legit), for storing my project repo.
