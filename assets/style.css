@@ -37,16 +37,18 @@ body {
 .ininav li a {
     color: var(--secondary-color);
     text-decoration: none;
+    border-width: 1px;
+    border-color: #ddd;
+    border-bottom-style: solid;
 }
 
 .ininav li a:hover {
-    text-decoration: underline;
+    border-color: var(--secondary-color);
 }
 
 #arab {
     font-family: 'Amiri', serif;
     text-align: right;
-    font-size: larger;
 }
 
 main a,
