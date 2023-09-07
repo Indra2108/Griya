@@ -1,15 +1,5 @@
 # damar@home
 
-## Todo(s)
+## Motivation
 
-- [ ] Ready-to-read Wiki.
-  - [ ] Research Origami and variants (Kirigami, Chiyogami?).
-- [ ] Each projects have a page. reference: https://h3rald.com/projects/
-- [ ] Origami Page (gallery for my own origami collections). reference:
-      https://tilde.town/~mio/origami/
-  - [ ] Using Chiyogami for Background.
-- [ ] Visual design experiment (collection of my own frontend websites design)
-- [ ] Using [icyphox](https://icyphox.sh/)'s git web frontend,
-      [legit](https://git.icyphox.sh/legit), for storing my project repo.
-- [ ] Neighbor page
-- [ ] Quote I've found on various personal website
+Initially, I built my personal website just for my portfolio. but after I read a bit about Benhoyt's essay about the [small web](https://benhoyt.com/writings/the-small-web-is-beautiful/), I became intrigued by the idea of making my personal website more extensive, not just limited to being a portfolio but as a place for my creativity.
