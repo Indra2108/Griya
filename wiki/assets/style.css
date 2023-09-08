@@ -76,6 +76,10 @@ ol>li>a:hover {
     text-decoration: none;
 }
 
+li {
+    line-height: 1.4;
+}
+
 .navheader {
     display: flex;
     gap: 1em;

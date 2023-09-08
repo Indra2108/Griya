@@ -53,6 +53,10 @@ h6 {
     color: #000;
 }
 
+li {
+    line-height: 1.4;
+}
+
 img {
     width: 100%;
     height: auto;
