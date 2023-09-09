@@ -1,11 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&display=swap');
 
 :root {
-    /* Dark Theme */
-    /* --primary-color: #1a1b1e;
-    --secondary-color: #cdcdcd; */
-
-    /* Light Theme = Lebih Alami, nyaman di mata */
     --primary-color: #edeaea;
     --secondary-color: #393b3f;
 }
@@ -83,11 +78,4 @@ li {
 .navheader {
     display: flex;
     gap: 1em;
-}
-
-@media screen and (max-width: 300px) {
-    #container {
-        width: auto;
-        margin: 0px;
-    }
 }

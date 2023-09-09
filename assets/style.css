@@ -1,15 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Amiri&family=Crimson+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Crimson+Text:ital@0;1&display=swap');
 
 :root {
-    /* Light Theme = Lebih Alami, nyaman di mata */
     --primary-color: #edeaea;
     --secondary-color: #393b3f;
     --link-color: #c83f42;
-
-    /* ::selection {
-        background-color: var(--secondary-color);
-        color: var(--primary-color);
-    } */
 }
 
 body {
@@ -99,11 +93,4 @@ ul li {
 
 #contacts p {
     margin: 0
-}
-
-@media screen and (max-width: 470px) {
-    #container {
-        width: auto;
-        margin: 0px;
-    }
 }
