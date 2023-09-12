@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Crimson+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Crimson+Text:ital@0;1&display=swap');
+
+:root {
+    --primary-color: #edeaea;
+    --secondary-color: #393b3f;
+    --link-color: #c83f42;
+}
+
+body {
+    font-family: 'Crimson Pro', serif;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+
+#container {
+    width: 650px;
+}
+
+.ininav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    padding: 10px 0;
+    margin-top: 0;
+    list-style-type: none;
+}
+
+.ininav li a {
+    color: var(--secondary-color);
+    text-decoration: none;
+    border-width: 1px;
+    border-color: #ddd;
+    border-bottom-style: solid;
+}
+
+.ininav li a:hover {
+    border-color: var(--secondary-color);
+}
+
+#arab {
+    font-family: 'Amiri', serif;
+    text-align: right;
+}
+
+main a,
+#contacts a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+main a:hover,
+#contacts a:hover {
+    color: var(--link-color);
+    text-decoration: none;
+    border-width: 1px;
+    border-color: var(--link-color);
+    border-bottom-style: solid;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Crimson Text', serif;
+    color: #000;
+}
+
+p {
+    line-height: 1.6;
+}
+
+li {
+    line-height: 1.4;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+#contacts {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1em;
+    list-style-type: none;
+    padding: 0;
+}
+
+#contacts p {
+    margin: 0
+}
