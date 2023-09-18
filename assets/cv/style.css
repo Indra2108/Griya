@@ -1,0 +1,85 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@0,400;0,700;1,400;1,700&family=Julius+Sans+One&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=B612+Mono&family=B612:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+    --primary-color: #edeaea;
+    --secondary-color: #393b3f;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #000;
+    margin: 15px 0;
+}
+
+pre {
+    font-family: 'B612 Mono', monospace;
+    margin: 7px 0;
+}
+
+dt,
+dd {
+    margin-bottom: 5px;
+}
+
+
+body {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    display: flex;
+    justify-content: center;
+    font-family: 'B612', sans-serif;
+}
+
+#container {
+    width: 650px;
+}
+
+hr {
+    margin: 25px 0;
+}
+
+p {
+    line-height: 1.6;
+}
+
+a {
+    color: var(--secondary-color);
+}
+
+p>a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    margin-top: 5px;
+    padding-left: 1em;
+    margin-bottom: 15px;
+}
+
+ul li {
+    margin-bottom: 3px;
+}
+
+.notes-title {
+    text-decoration: none;
+}
+
+.title {
+    margin-bottom: 0;
+}
+
+.date {
+    display: flex;
+    justify-content: space-between;
+}
