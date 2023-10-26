@@ -1,3 +1,7 @@
 - Social Media are not supposed to be your digital gallery!
 - My Journey to the Internet.
 - Life is War
+- Interesting Programming I wanna learn!
+	- Haskell, would be my favorite
+	- Hare, 
+	- Ada, like Rust, but more mature
