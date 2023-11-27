@@ -33,12 +33,14 @@ DO SOMETHING, SO WE CAN CHANGE IT!
   TYPE : article
   TAGS : general
 
-FEDORA 35 WITH WHITESUR THEME
-  DATE : 2022-01-21
-  AUTH : indrdmr
-  TAGS : linux
+PYTHAGORAS HASKELL IMPLEMENTATION
+  DATE : 2023-11-25
+  AUTH : Veronika Romashkina
+  TAGS : math, code
   TYPE : image
-  FILE : 2022-01-21_fedora35_whitesur.png
+  FILE : 2023-11-25_pythagoras_haskell.png
+  LINK : https://github.com/kowainik/learn4haskell/blob/cfc69fa36399c44a6885f3981a18f0fae4e51caf/src/Chapter1.hs#L608
+  WIDE : true
 
 REMOTE WORK REQUIRES COMMUNICATING MORE, LESS FREQUENTLY
   LINK : https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/
@@ -90,6 +92,13 @@ WORLD'S FIRST COLOR E-INK MONITOR
   LINK : https://www.indiegogo.com/projects/paperlike-color-world-first-color-e-ink-monitor/coming_soon
   TYPE : tool
   TAGS : hardware
+
+FEDORA 35 WITH WHITESUR THEME
+  DATE : 2022-01-21
+  AUTH : indrdmr
+  TAGS : linux
+  TYPE : image
+  FILE : 2022-01-21_fedora35_whitesur.png
 
 INTRODUCTION TO KALMAN FILTERS
   LINK : https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/
