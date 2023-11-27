@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Crimson+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Crimson+Text:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital@0;1&family=EB+Garamond:ital,wght@0,600;1,600&family=Ysabeau:ital@0;1&display=swap');
 
 :root {
     --primary-color: #edeaea;
@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: 'Crimson Pro', serif;
+    font-family: 'Ysabeau', sans-serif;
     background-color: var(--primary-color);
     color: var(--secondary-color);
     display: flex;
@@ -66,7 +66,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Crimson Text', serif;
+    font-family: 'EB Garamond', serif;
     color: #000;
 }
 
