@@ -88,11 +88,6 @@ WRITE ABOUT WHAT YOU LEARN
   TYPE : article
   TAGS : writing
 
-WORLD'S FIRST COLOR E-INK MONITOR
-  LINK : https://www.indiegogo.com/projects/paperlike-color-world-first-color-e-ink-monitor/coming_soon
-  TYPE : tool
-  TAGS : hardware
-
 FEDORA 35 WITH WHITESUR THEME
   DATE : 2022-01-21
   AUTH : indrdmr
@@ -382,7 +377,7 @@ THINGS I LEARNED FROM TEACHING
   TYPE : article
   TAGS : general
 
-ADVENT OF TECHNICAL WRITING (SERIES)
+ADVENT OF TECHNICAL WRITING (BLOG SERIES)
   LINK : https://jamesg.blog/category/advent-of-technical-writing/
   TYPE : article
   TAGS : writing
@@ -393,6 +388,16 @@ LIFE LESSONS FROM A 44 YEARS OLD
   LINK : https://www.anniemacmanus.com//articles/life-lessons-from-a-44-year-old
   TYPE : article
   TAGS : general
+
+LITTLE LANGUAGES ARE THE FUTURE OF PROGRAMMING
+  LINK : https://chreke.com/little-languages.html
+  TYPE : article
+  TAGS : code
+
+WHAT'S SO GREAT ABOUT FUNCTIONAL PROGRAMMING ANYWAY?
+  LINK : https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/
+  TYPE : article
+  TAGS : code
 
 
 `
