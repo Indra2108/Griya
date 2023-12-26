@@ -2,6 +2,6 @@
 - My Journey to the Internet.
 - Life is War
 - Interesting Programming I wanna learn!
-	- Haskell, would be my favorite
+	- Haskell, would be my favorite (Kenapa aku suka Haskell).
 	- Hare, 
 	- Ada, like Rust, but more mature
