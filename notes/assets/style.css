@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Amiri:ital@0;1&family=EB+Garamond:ital,wght@0,600;1,600&family=Ysabeau:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital@0;1&family=Ysabeau:ital@0;1&display=swap');
 
 :root {
     --primary-color: #edeaea;
@@ -36,16 +36,6 @@ p>a:hover {
 
 h1 {
     margin-bottom: 0;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: 'EB Garamond', serif;
-    color: #000;
 }
 
 li {
